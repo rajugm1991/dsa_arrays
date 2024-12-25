@@ -1,4 +1,5 @@
 import java.util.Arrays;
+import java.util.Map;
 import java.util.Scanner;
 
 public class MultiDimentional {
@@ -30,8 +31,7 @@ public class MultiDimentional {
         int [][] ar2={{1,2,3},{4,5,6},{7,8,9}};
 
         System.out.println(ar2[2][2]);
-
-
+        
         int [][]ar3=new int[3][3];
 
         Scanner scanner=new Scanner(System.in);
